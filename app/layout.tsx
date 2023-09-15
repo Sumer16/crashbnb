@@ -3,12 +3,12 @@ import type { Metadata } from 'next'
 import { Inter } from 'next/font/google'
 import { Nunito } from 'next/font/google'
 
-const inter = Inter({ subsets: ['latin'] })
+// const inter = Inter({ subsets: ['latin'] })
 
 // Reserved constant in NextJS 13 to control your metadatas
 export const metadata: Metadata = {
-  title: 'AirBnB',
-  description: 'This is a AirBnB clone website developed using NextJS 13.4',
+  title: 'CrashBnB',
+  description: 'This is a CrashBnB clone website developed using NextJS 13.4',
 }
 
 // Using this instead of inter
