@@ -7,8 +7,8 @@ const font = Nunito({ subsets: ['latin'] })
 // Reserved constant in NextJS 13 to control your metadatas
 export const metadata: Metadata = {
   title: 'CrashBnB | An AirBnB Clone',
-  description: 'This is a CrashBnB application, a clone of the airbnb website developed using NextJS 13.4',
-}
+  description: 'This is a CrashBnB application, a clone of the AirBnB website developed using NextJS 13.4, React and TailwindCSS',
+} 
 
 export default function RootLayout({
   children,
