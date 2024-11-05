@@ -2,9 +2,32 @@
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started with the CrashBnb app
+## About CrashBnb
 
-First, run the development server:
+This is a full-stack application which is still in development phase.
+
+## Installation
+
+### Clone the repository
+To get started, you'll need to clone this repository to your local machine. You can do this by running the following in the command line:
+
+```bash 
+git clone https://github.com/Sumer16/crashbnb.git 
+```
+
+### Install dependencies
+
+Once you've cloned the repository, navigate to the project directory and run npm/yarn install to install all the necessary dependencies.
+
+```bash
+cd crashbnb
+
+npm install
+# or
+yarn install
+```
+
+then, run the development server:
 
 ```bash
 npm run dev
